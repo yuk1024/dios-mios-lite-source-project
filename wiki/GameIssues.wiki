@@ -1,0 +1,29 @@
+#labels Featured,Phase-Support
+#This page has a list of games that have issues or require fixing to work on DML
+
+
+= Games that don't work due certain protections=
+
+|| Name || Region || Reason ||
+|| Pokemon Colosseum || All || Clears 0x1800 area and does multiple checks that the area is clear ||
+|| POKeMON XD || All || Clears 0x1800 area and does multiple checks that the area is clear ||
+|| PHANTASY STAR ONLINE EPISODE I&II || All || Seems to selfcheck itself and stuff (check) ||
+|| PSO 3 || All || Seems to selfcheck itself and stuff (check) ||
+
+
+
+= Games that break when modifying the ISO (using DiscEX -c) =
+ 
+ 
+|| Name || Region || Reason ||
+|| Metroid Prime || All || Game has main.dol within the FST of the disc ||
+|| Metroid Prime 2 || All || Game has main.dol within the FST of the disc ||
+|| Geist || All || Game has main.dol within the FST of the disc ||
+|| Kirby's Air Ride || All || Unknown ||
+
+ 
+= Games that have issue due MIOS patching not being applied =
+ 
+ 
+|| Name || Region || Reason ||
+|| THE LEGEND OF ZELDA The Wind Waker || All || Crashes when opening the dungeon map ||
