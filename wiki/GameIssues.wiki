@@ -4,26 +4,41 @@
 
 = Games that don't work due certain protections=
 
-|| Name || Region || Reason ||
-|| Pokemon Colosseum || All || Clears 0x1800 area and does multiple checks that the area is clear ||
-|| POKeMON XD || All || Clears 0x1800 area and does multiple checks that the area is clear ||
-|| PHANTASY STAR ONLINE EPISODE I&II || All || Seems to selfcheck itself and stuff (check) ||
-|| PSO 3 || All || Seems to selfcheck itself and stuff (check) ||
+|| Name || Reason ||
+|| Pokemon Colosseum || Clears 0x1800 area and does multiple checks that the area is clear ||
+|| POKeMON XD || Clears 0x1800 area and does multiple checks that the area is clear ||
+|| PHANTASY STAR ONLINE EPISODE I&II || Seems to selfcheck itself and stuff (check) ||
+|| PSO 3 || Seems to selfcheck itself and stuff (check) ||
 
 
 
 = Games that break when modifying the ISO (using DiscEX -c) =
  
  
-|| Name || Region || Reason ||
-|| Metroid Prime || All || Game has main.dol within the FST of the disc ||
-|| Metroid Prime 2 || All || Game has main.dol within the FST of the disc ||
-|| Geist || All || Game has main.dol within the FST of the disc ||
-|| Kirby's Air Ride || All || Unknown ||
+|| Name || Reason ||
+|| Metroid Prime || Game has main.dol within the FST of the disc ||
+|| Metroid Prime 2 || Game has main.dol within the FST of the disc ||
+|| Geist || Game has main.dol within the FST of the disc ||
+|| Kirby's Air Ride || Unknown ||
 
  
+
+= Games that have issue due using audio streaming =
+|| Name || Effect ||
+|| 1080 Avalanche || No music during gameplay ||
+|| IKARUGA || No music during gameplay ||
+|| Extreme G 3 || No music during gameplay ||
+|| Eternal Darkness || No music during gameplay ||
+|| Mario Soccer || No music during gameplay ||
+|| Mario Superstar Baseb || No music during gameplay ||
+|| Star Fox Adventures || No voices and music, subtitles are late ||
+|| Super Monkey Ball || No music during gameplay ||
+|| WAVE RACE BLUE STORM || No music during gameplay ||
+
+
+  
 = Games that have issue due MIOS patching not being applied =
  
  
-|| Name || Region || Reason ||
-|| THE LEGEND OF ZELDA The Wind Waker || All || Crashes when opening the dungeon map ||
+|| Name || Reason ||
+|| THE LEGEND OF ZELDA The Wind Waker || Crashes when opening the dungeon map ||
