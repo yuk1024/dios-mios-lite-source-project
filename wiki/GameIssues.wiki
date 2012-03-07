@@ -16,9 +16,6 @@
  
  
 || Name || Reason ||
-|| Metroid Prime || Game has main.dol within the FST of the disc ||
-|| Metroid Prime 2 || Game has main.dol within the FST of the disc ||
-|| Geist || Game has main.dol within the FST of the disc ||
 || Kirby's Air Ride || Unknown ||
 
  
@@ -38,7 +35,3 @@
 
   
 = Games that have issue due MIOS patching not being applied =
- 
- 
-|| Name || Reason ||
-|| THE LEGEND OF ZELDA The Wind Waker || Crashes when opening the dungeon map ||
